@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-  <Placemark>
+    <Placemark>
     <name>Simple placemark</name>
     <description>Attached to the ground. Intelligently places itself 
        at the height of the underlying terrain.</description>
     <Point>
       <coordinates>18.604019, 54.374627,0</coordinates>
     </Point>
+  </Placemark>
+    <Placemark>
+    <name>Simple placemark</name>
+    <description>Attached to the ground. Intelligently places itself 
+       at the height of the underlying terrain.</description>
     <Point>
       <coordinates>18.7, 54.374627,0</coordinates>
     </Point>
+  </Placemark>
+    <Placemark>
+    <name>Simple placemark</name>
+    <description>Attached to the ground. Intelligently places itself 
+       at the height of the underlying terrain.</description>
     <Point>
       <coordinates>18.8, 54.374627,0</coordinates>
     </Point>
+  </Placemark>
+    <Placemark>
+    <name>Simple placemark</name>
+    <description>Attached to the ground. Intelligently places itself 
+       at the height of the underlying terrain.</description>
     <Point>
       <coordinates>18.9, 54.374627,0</coordinates>
     </Point>
+  </Placemark>
+    <Placemark>
+    <name>Simple placemark</name>
+    <description>Attached to the ground. Intelligently places itself 
+       at the height of the underlying terrain.</description>
     <Point>
       <coordinates>19, 54.374627,0</coordinates>
     </Point>
