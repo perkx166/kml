@@ -53,6 +53,18 @@
       <coordinates>18.712753,54.572020, 0</coordinates>
     </Point>
   </Placemark>
-  
+  <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates> 18.612830, 54.371597, 0
+           18.614762, 54.375848,0
+          18.645445 ,54.355405, 0
+           18.789738,54.096168,0
+           18.832158,54.006059,0
+        </coordinates>
+      </LineString>
+    </Placemark>
   </Document>
 </kml>
