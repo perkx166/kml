@@ -29,26 +29,36 @@
       </Polygon>
     </Placemark>
   <Placemark>
+    <name>Simple placemark1</name>
+    <description>1</description>
     <Point>
       <coordinates>18.712753,54.372020, 0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
+    <name>Simple placemark2</name>
+    <description>2</description>
     <Point>
       <coordinates>18.812753,54.372020, 0</coordinates>
     </Point>
   </Placemark>
   <Placemark>
+    <name>Simple placemark3</name>
+    <description>3</description>
     <Point>
       <coordinates>18.912753,54.372020, 0</coordinates>
     </Point>
   </Placemark>
     <Placemark>
+    <name>Simple placemark4</name>
+    <description>4</description>
     <Point>
       <coordinates>18.712753,54.472020, 0</coordinates>
     </Point>
   </Placemark> 
   <Placemark>
+    <name>Simple placemark5</name>
+    <description>5</description>
     <Point>
       <coordinates>18.712753,54.572020, 0</coordinates>
     </Point>
