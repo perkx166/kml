@@ -17,16 +17,42 @@
         <altitudeMode>relativeToGround</altitudeMode>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates> 18.612753,54.372020, 17
-              18.612991, 54.371854, 17
-              18.612729, 54.371351, 17
-              18.612360, 54.371297, 17
-              18.611704, 54.371692, 17
-              18.611831, 54.371909, 17
+            <coordinates> 18.612753,54.372020, 0
+              18.612991, 54.371854, 0
+              18.612729, 54.371351, 0
+              18.612360, 54.371297, 0
+              18.611704, 54.371692, 0
+              18.611831, 54.371909, 0
             </coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
     </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>18.712753,54.372020, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>18.812753,54.372020, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>18.912753,54.372020, 0</coordinates>
+    </Point>
+  </Placemark>
+    <Placemark>
+    <Point>
+      <coordinates>18.712753,54.472020, 0</coordinates>
+    </Point>
+  </Placemark> 
+  <Placemark>
+    <Point>
+      <coordinates>18.712753,54.572020, 0</coordinates>
+    </Point>
+  </Placemark>
+  
   </Document>
 </kml>
